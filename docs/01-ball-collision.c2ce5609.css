@@ -1,0 +1,15 @@
+body {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+canvas {
+  background: #eee;
+  border: 1px dashed #243b53;
+}
+/*# sourceMappingURL=01-ball-collision.c2ce5609.css.map */
